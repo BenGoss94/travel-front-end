@@ -1,0 +1,13 @@
+.HeaderComponent{
+    width: 100%;
+    background-color: #333333;
+    border-bottom: #888888;
+    border-width: 2px;
+    height: 7%;
+    position: absolute;
+}
+.AppHeader {
+    font-size: 15pt;
+    color: #EEEEEE;
+    float: left;
+} 
