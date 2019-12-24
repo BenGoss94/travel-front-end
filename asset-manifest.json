@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/travel-front-end/static/css/main.0451c2c3.chunk.css",
+    "main.js": "/travel-front-end/static/js/main.809c8f92.chunk.js",
+    "main.js.map": "/travel-front-end/static/js/main.809c8f92.chunk.js.map",
+    "runtime-main.js": "/travel-front-end/static/js/runtime-main.bace1c4e.js",
+    "runtime-main.js.map": "/travel-front-end/static/js/runtime-main.bace1c4e.js.map",
+    "static/js/2.ac4b017a.chunk.js": "/travel-front-end/static/js/2.ac4b017a.chunk.js",
+    "static/js/2.ac4b017a.chunk.js.map": "/travel-front-end/static/js/2.ac4b017a.chunk.js.map",
+    "index.html": "/travel-front-end/index.html",
+    "precache-manifest.16269c7750506e13b08647b4ed8bbece.js": "/travel-front-end/precache-manifest.16269c7750506e13b08647b4ed8bbece.js",
+    "service-worker.js": "/travel-front-end/service-worker.js",
+    "static/css/main.0451c2c3.chunk.css.map": "/travel-front-end/static/css/main.0451c2c3.chunk.css.map",
+    "static/js/2.ac4b017a.chunk.js.LICENSE": "/travel-front-end/static/js/2.ac4b017a.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bace1c4e.js",
+    "static/js/2.ac4b017a.chunk.js",
+    "static/css/main.0451c2c3.chunk.css",
+    "static/js/main.809c8f92.chunk.js"
+  ]
+}
